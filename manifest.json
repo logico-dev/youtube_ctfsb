@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "YouTube Close the F* Sidebar",
+    "description": "Close the anoying sidebar in YouTube's desktop home after reload. Install and reload YouTube",
+    "version": "1.0",
+
+    "offline_enabled": true,
+
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js": ["main.js"]
+        }
+    ]
+
+}

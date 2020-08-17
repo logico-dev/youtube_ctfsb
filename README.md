@@ -1,0 +1,1 @@
+Keep the F* sidebar closed on YouTube´s desktop home page.
