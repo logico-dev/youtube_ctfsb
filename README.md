@@ -1,1 +1,1 @@
-Keep the F* sidebar closed on YouTube´s desktop home page.
+Chrome extension to keep the F* sidebar closed on YouTube´s desktop home page. It´s not perfect but works.
